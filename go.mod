@@ -1,4 +1,4 @@
-module github.com/sdorra/usb-bardcode-sanner
+module github.com/sdorra/usb-barcode-scanner
 
 go 1.16
 
